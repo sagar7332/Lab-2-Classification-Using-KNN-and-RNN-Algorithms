@@ -55,8 +55,8 @@ The goals of the lab are to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/MSCS_634_Lab_2.git
-cd MSCS_634_Lab_2
+
+https://github.com/sagar7332/Lab-2-Classification-Using-KNN-and-RNN-Algorithms
 
 # Install dependencies
 pip install scikit-learn numpy matplotlib pandas notebook
